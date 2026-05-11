@@ -1,9 +1,12 @@
-<h1>linking two departments (Sales & Finance)<h1>
 <div align="center">
+  <p>
+<h1>linking two departments (Sales & Finance)<h1>
+
 <h2>this is a simple connection topology: <h2>
 <h2>1- all Sales employees have ip addresses and connected to a switch <h2>
 <h2>2- all Finance employees have ip addresses and connected to a switch <h2>
 <h2>3- each lan is given a subnet and the router is connecting them <h2>
+  </p>
 </div>
 
 <img width="1046" height="626" alt="Screenshot 2026-05-10 192506" src="https://github.com/user-attachments/assets/812b48ec-2010-4115-8910-903367058f62" />
