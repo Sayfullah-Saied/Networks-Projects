@@ -3,9 +3,9 @@
 <h1>linking two departments (Sales & Finance)<h1>
 
 <h2>this is a simple connection topology: 
-1- all Sales employees have ip addresses and connected to a switch 
-2- all Finance employees have ip addresses and connected to a switch 
-3- each lan is given a subnet and the router is connecting them </h2>
+<p>1- all Sales employees have ip addresses and connected to a switch </p>
+<p>2- all Finance employees have ip addresses and connected to a switch </p>
+<p>3- each lan is given a subnet and the router is connecting them </p></h2>
   
 </div>
 
