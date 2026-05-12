@@ -15,38 +15,31 @@
 <br>
 
 - IT department hosts can obtain IPs from dhcp server
+<img width="1043" height="607" alt="2" src="https://github.com/user-attachments/assets/7beed91e-3a7d-48a6-ac24-69ad40f20c41" />
+<br>
+- HR department hosts can obtain IPs from dhcp server
+ <img width="729" height="605" alt="3" src="https://github.com/user-attachments/assets/45c71b88-f694-4a85-9f8e-581ddf928097" />
+<br>
 
-  <img width="1043" height="607" alt="2" src="https://github.com/user-attachments/assets/7beed91e-3a7d-48a6-ac24-69ad40f20c41" />
+- Customer Service department hosts can obtain IPs from dhcp server
+   
+<img width="838" height="601" alt="4" src="https://github.com/user-attachments/assets/703119b5-cac8-418b-94b5-8f9ae0b5f9f8" />
 
-  <br>
+<br>
 
-  - HR department hosts can obtain IPs from dhcp server
- 
-    <img width="729" height="605" alt="3" src="https://github.com/user-attachments/assets/45c71b88-f694-4a85-9f8e-581ddf928097" />
-  <br>
+-PING is up and connected between departments
 
     
-    - Customer Service department hosts can obtain IPs from dhcp server
+<img width="1062" height="704" alt="5" src="https://github.com/user-attachments/assets/0f9d99a7-c9ce-4d15-a54f-f891cefa3ee2" />
+
+<br>
+
+- when connecting to the wireless network the device is assigned ip from the that network
    
-      <img width="838" height="601" alt="4" src="https://github.com/user-attachments/assets/703119b5-cac8-418b-94b5-8f9ae0b5f9f8" />
-
-    <br>
-
-    -PING is up and connected between departments
-
-    
-
-      <img width="1062" height="704" alt="5" src="https://github.com/user-attachments/assets/0f9d99a7-c9ce-4d15-a54f-f891cefa3ee2" />
-
-      <br>
-
-      - when connecting to the wireless network the device is assigned ip from the that network
-   
-        <img width="701" height="563" alt="6" src="https://github.com/user-attachments/assets/8afcd028-6ae4-4998-b36c-5c35e20463f2" />
+<img width="701" height="563" alt="6" src="https://github.com/user-attachments/assets/8afcd028-6ae4-4998-b36c-5c35e20463f2" />
 
 
-
-        By : Sayfullah Saied,
+By : Sayfullah Saied,
 
             
 
