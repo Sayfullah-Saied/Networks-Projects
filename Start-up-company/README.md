@@ -20,7 +20,7 @@
 <br>
 <hr>
 - HR department hosts can obtain IPs from dhcp server
- <img width="729" height="605" alt="3" src="https://github.com/user-attachments/assets/45c71b88-f694-4a85-9f8e-581ddf928097" />
+<img width="729" height="605" alt="3" src="https://github.com/user-attachments/assets/45c71b88-f694-4a85-9f8e-581ddf928097" />
 <br>
 <hr>
 
