@@ -39,7 +39,7 @@
 <br>
 <hr>
 
-- when connecting to the wireless network the device is assigned ip from the that network
+- when connecting to the wireless network the device is assigned ip from that network
    
 <img width="701" height="563" alt="6" src="https://github.com/user-attachments/assets/8afcd028-6ae4-4998-b36c-5c35e20463f2" />
 <hr>
