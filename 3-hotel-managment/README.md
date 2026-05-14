@@ -17,32 +17,33 @@
 
 <img width="1046" height="519" alt="1" src="https://github.com/user-attachments/assets/a7678de4-6de8-4ff7-bcbe-550b43197d05" />  
 
-<h4>Each floor is served by its own router functioning as the DHCP server, with inter‑VLAN routing enabled on every router using a `Router‑on‑a‑Stick` configuration.</h4>  
+<h4>Each floor is served by its own router functioning as the DHCP server, with inter‑VLAN routing enabled on every router using a `Router‑on‑a‑Stick` configuration.</h4>
+<br/>
 
-```devices in first floor is assigned IPs from the dhcp server of the first floor ```  
+```devices in first floor is assigned IPs from the dhcp server of the first floor ```  <br/>
 
 <img width="726" height="704" alt="2-2" src="https://github.com/user-attachments/assets/3875040c-c193-4819-b050-c5992bbc46e6" />  
 
-```devices in second floor is assigned IPs from the dhcp server of the second floor ```  
+```devices in second floor is assigned IPs from the dhcp server of the second floor ```<br/>  
 
 <img width="1058" height="634" alt="3" src="https://github.com/user-attachments/assets/8d41eb9b-3360-40e1-8824-1aa755f0acfb" />  
 
-```devices in third floor is assigned IPs from the dhcp server of the third floor ```  
+```devices in third floor is assigned IPs from the dhcp server of the third floor ```<br/>  
 
 <img width="1435" height="1035" alt="4" src="https://github.com/user-attachments/assets/f0fdff45-f35f-4273-8ade-7fa62e323afe" />  
 
-``` OSPF protocol is configured on the routers, the letter O in the picture ensures that the router learned these networks from OSPF ```  
+``` OSPF protocol is configured on the routers, the letter O in the picture ensures that the router learned these networks from OSPF ``` <br/> 
 
 <img width="991" height="1091" alt="5" src="https://github.com/user-attachments/assets/2f521ef4-9a0d-43c0-b2cf-6b9ff44599c4" />  
 
 
-``` Hosts inside the same floor can communicate ```  
+``` Hosts inside the same floor can communicate ```  <br/>
 
 <img width="1805" height="514" alt="6" src="https://github.com/user-attachments/assets/72c1af87-bd3b-4002-8aa1-1c4d4b1f95e3" />  
 
-```Hosts in different floors can also communicate ```  
+```Hosts in different floors can also communicate ``` <br/> 
 
-<img width="1848" height="721" alt="7" src="https://github.com/user-attachments/assets/4f889460-b6e2-4ae3-ad44-9acf7f7a91d8" />  
+<img width="1848" height="721" alt="7" src="https://github.com/user-attachments/assets/4f889460-b6e2-4ae3-ad44-9acf7f7a91d8" />  <br/>
 
 <h2>everything is connected smothly and network is running</h2>
 <h1>by, Sayfullah Saied</h1>
