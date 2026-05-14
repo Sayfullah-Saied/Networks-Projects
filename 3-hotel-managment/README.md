@@ -20,9 +20,9 @@
 <h4>Each floor is served by its own router functioning as the DHCP server, with inter‑VLAN routing enabled on every router using a `Router‑on‑a‑Stick` configuration.</h4>
 <br/>
 
-```devices in first floor is assigned IPs from the dhcp server of the first floor ```<br/>
+```devices in first floor is assigned IPs from the dhcp server of the first floor ```<br/><br/>
 
-<img width="726" height="704" alt="2-2" src="https://github.com/user-attachments/assets/3875040c-c193-4819-b050-c5992bbc46e6" />  
+<img width="726" height="704" alt="2-2" src="https://github.com/user-attachments/assets/3875040c-c193-4819-b050-c5992bbc46e6" /><br/><br/>  
 
 ```devices in second floor is assigned IPs from the dhcp server of the second floor ```<br/>
 
