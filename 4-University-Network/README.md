@@ -22,4 +22,7 @@
 <br><br>
 <h3>Devices in the main campus can communicate </h3><br>
 <img width="725" height="350" alt="5" src="https://github.com/user-attachments/assets/e571902a-30f6-4b84-b16d-0b92deb1f3aa" />
+<br>
+<hr>
+<h2>All green lights are up and running smoothly 😉</h2>
 
