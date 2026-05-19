@@ -1,7 +1,8 @@
 <h2 align="center">JAKARTA School Network Topology</h2>
 <br>
 #By, Sayfullah<br>
-#the School has Two floors:
+<hr>
+<h4 align="center">#the School has Two floors:</h4>
 
 ```
 Floor 1 : 
