@@ -18,5 +18,8 @@ Floor 2 :
           - IT Department: VLAN 40, Network ADD: 192.168.4.0/24
           - servers-Room: VLAN 30, Network ADD: 192.168.3.0/24
 ```
+#OSPF protocol running on routers to connect the floors<br>
+#The server room includes a DHCP server for automatic IP assignment and a web server for hosting the school’s website<br>
+#The network uses router‑on‑a‑stick InterVLAN routing to enable traffic flow between different VLANs.
 <br>
 <img width="958" height="649" alt="1" src="https://github.com/user-attachments/assets/1fb430bd-66a4-486d-ba99-441ccf8ca644" />
